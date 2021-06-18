@@ -1,3 +1,9 @@
+
+
+#### THESE ARE NOT MY ANSWERS TO THE PYTHON ASSESSMENT: THESE ARE THE SOLUTIONS (GONE OVER AFTER THE EXAM)
+# FOR MY ANSWERS - CHECKED FORKED ASSESSMENT2 REPO
+
+
 # given a string, return a string whre for every char n the original string, thre are three chars
 
 # one("The") >>>> "TTThheee"
@@ -135,3 +141,4 @@ def nine(string1, string2):
             return False 
 
         return True
+
